@@ -1,0 +1,3 @@
+This is a sample text file.
+This is not a ###### text file has ######
+this sample contains ######
