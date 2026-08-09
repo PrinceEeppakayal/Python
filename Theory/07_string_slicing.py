@@ -39,5 +39,4 @@ print(name[0:5])  # --> Princ
 
 # When we want to skip any words we slice using skip value after writing the range we write the value of character we want to skip 
 print(name[0:5:2])  # --> Pic  here we skip 2 characters from the start till 5 
-''' i.e. P which is 0 is printed then skipping 2 charcters including the printed one then i which is 2 is printed then skipping 
-         2 charcters including the printed one then c which is 4 is printed as we know the output provided will be less than range by -1 ''' 
+''' i.e. P which is 0 is printed then skipping 2 characters including the printed one then i which is 2 is printed then skipping 2 characters including the printed one then c which is 4 is printed as we know the output provided will be less than range by -1 ''' 
